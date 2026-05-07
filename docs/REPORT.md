@@ -1,7 +1,7 @@
 # Acoustic Species Identification in the Brazilian Pantanal: A Heterogeneous Rank-Average Ensemble for BirdCLEF 2026
 
 **Author:** Savitha Vijayarangan
-**Repository:** https://github.com/RamananVr/KaggleBirdClef2026
+**Repository:** (https://github.com/IamSavitha/KaggleBirdClef2026)
 **Best public-leaderboard score:** 0.932 (macro-averaged ROC-AUC, BirdCLEF+ 2026)
 
 ---
